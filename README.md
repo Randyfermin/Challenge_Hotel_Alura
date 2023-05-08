@@ -230,9 +230,8 @@ La tabla de huéspedes debe contener la clave externa <em>(foreign key)</em> <st
 y la tabla de reservas debe contener la clave externa <em>(foreign key)</em> <strong>tipo_ocupacionId</strong>.
 
 <p align="center" >
-     <img width="500" heigth="500" src="https://github.com/Randyfermin/challenge-one-alura-hotel-latam/blob/repositorio-base/src/imagenes/relacion_tablas_DB.png?raw=true">
+     <img width="500" heigth="500" src="https://user-images.githubusercontent.com/48891637/236731657-2a861907-66b8-427c-9303-acb52f85bf4a.png">
 </p>
-
 
 ## 🗔 Plugin WindowBuilder
 
