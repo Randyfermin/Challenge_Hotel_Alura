@@ -278,10 +278,24 @@ La pestaña de <em>Design</em> se abrirá por encima de la zona del <em>Console<
 
 ## Características de la aplicación y demostración
 
+### LogIn Usuario
+https://user-images.githubusercontent.com/48891637/236731148-55fe9678-d5be-4cbe-9318-9f58acd38875.mp4
 
+### Registrar Reservas y Huesped
+https://user-images.githubusercontent.com/48891637/236731282-4e0ce879-5b8c-4c27-9495-6c13e62e4e31.mp4
 
+### Busqueda
+https://user-images.githubusercontent.com/48891637/236731338-cbe278e5-2bcf-4606-ad1c-d27966b31398.mp4
+
+### Editar
+https://user-images.githubusercontent.com/48891637/236731383-0840c181-84b0-4d5f-b678-f2d82cc1ecf5.mp4
+https://user-images.githubusercontent.com/48891637/236731415-8d598ea5-8e19-48d8-aff9-e73af07e7f0e.mp4
+
+### Eliminar
+https://user-images.githubusercontent.com/48891637/236731467-e54e4f33-ee10-47aa-9d8d-e3edd4f71a2d.mp4
 
 ## Personas Desarrolladores del Proyecto
+
 [<img src="https://avatars.githubusercontent.com/u/48891637?v=4" width=115>
 <br>
 <sub>
