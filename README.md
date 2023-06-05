@@ -304,7 +304,7 @@ Randolfo Fermin
 </sub>](https://github.com/Randyfermin)
 
 ## Licencia
-[Hotel Alura Liencia MIT ](https://github.com/Randyfermin/JavaConvertidor/blob/main/License.txt)
+[Hotel Alura Liencia MIT ](https://github.com/Randyfermin/Challenge_Hotel_Alura/blob/main/Licencia.txt)
 
 
 🧡 <strong>Oracle</strong></br>
