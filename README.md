@@ -33,7 +33,7 @@
     Este proyecto fue desarrollado con el proposito de cumplir con el challenge creado por:
     Alura + Oracle Next Education en la ruta de aprendizaje BackEnd.
 
-    Challenge: Crea tu propia aplicación Desktop con conexión a la Base de Datos.
+    Challenge: Crea una aplicación Desktop con conexión a la Base de Datos.
     
     Funcionalidades: 
     - Módulo de acceso para usuarios registrados en la Base de Datos.
