@@ -30,7 +30,8 @@
 ## Descripción del proyecto:
 <p align="justify">
     
-    Este proyecto fue desarrollado con el proposito de cumplir con el challenge creado por Alura + Oracle Next Education en la ruta de aprendizaje BackEnd.
+    Este proyecto fue desarrollado con el proposito de cumplir con el challenge creado por:
+    Alura + Oracle Next Education en la ruta de aprendizaje BackEnd.
 
     Challenge: Crea tu propia aplicación Desktop con conexión a la Base de Datos.
     
